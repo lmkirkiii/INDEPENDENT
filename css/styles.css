@@ -1,0 +1,26 @@
+.self{
+  border: blue solid 3px;
+  margin-left: 8em;
+}
+.jumbotron{
+  border:red solid 3px;
+  background-color: blue;
+  color: yellow;
+}
+.well{
+  border:red solid 3px;
+  background-color: blue;
+  color: yellow;
+}
+.background{
+  background-color: yellow;
+}
+.col-md-10{
+  padding: 2em;
+}
+a{
+  color: yellow;
+}
+p{
+  font-size: 15px
+}
