@@ -1,6 +1,7 @@
 .self{
   border: blue solid 3px;
   margin-left: 8em;
+
 }
 .jumbotron{
   border:red solid 3px;
@@ -19,8 +20,22 @@
   padding: 2em;
 }
 a{
+
   color: yellow;
 }
-p{
-  font-size: 15px
+.red{
+  background-color: red;
+  padding: 4px;
+  border: 3px solid yellow;
+  border-radius: 3px;
+
+}
+.container h3{
+  font-style: italic;
+}
+.container .row .well p{
+  font-size: 17px
+  padding: 4px;
+  padding-top: 5px;
+
 }
