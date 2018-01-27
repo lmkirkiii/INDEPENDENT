@@ -6,7 +6,7 @@
 
 ## Description
 
-_My site is primarily used to facilitate an access point to my professional identity.The site is equipped with links to my portfolio work, a brief bio, and a self portrait._
+_My site is primarily used to facilitate an access point to my professional identity. The site is equipped with links to my portfolio work, a brief bio, and a self portrait._
 
 ## Setup/Installation Requirements
 
@@ -21,11 +21,13 @@ _No Known Bugs._
 
 ## Support and contact details
 
-_Email provided in contact section on site or send an email to lmkirkiii@gmail.com_
+_Email provided in contact section on site or send an email to lmkirkiii@gmail.com_.
 
 ## Technologies Used
 
-_Html, Css, Bootstrap_
+* _Html_
+* _ Css_
+* _Bootstrap_
 
 ### License
 
