@@ -10,10 +10,9 @@ _My site is primarily used to facilitate an access point to my professional iden
 
 ## Setup/Installation Requirements
 
-* _Place Gh-Pages link into your browser_
-* _Open the site server in Github_
-* _View code through the inspect function on google chrome_
-* _Bootstrap is written into the html links in the head of page no need for wifi to open from terminal._
+* _Clone this repository._
+* _Open this repository in Terminal._
+* _Open index.html file through the browser of your choice._
 
 ## Known Bugs
 
@@ -26,7 +25,7 @@ _Email provided in contact section on site or send an email to lmkirkiii@gmail.c
 ## Technologies Used
 
 * _Html_
-* _ Css_
+* _Css_
 * _Bootstrap_
 
 ### License

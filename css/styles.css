@@ -2,49 +2,53 @@
 .self{
   border: yellow solid 3px;
   margin-left: 8em;
-
 }
+
 .jumbotron{
   border:red solid 3px;
   background-color: blue;
   color: yellow;
 }
+
 .well{
   border:red solid 3px;
   background-color: blue;
   color: yellow;
 }
-.background{
 
+.background{
   background-color: yellow;
 }
+
 .col-md-10{
   padding: 2em;
 }
-a{
 
+a{
   color: yellow;
 }
+
 .red{
   background-color: red;
   padding: 4px;
   border: 3px solid yellow;
   border-radius: 3px;
-
 }
+
 .container h3{
   font-style: italic;
 }
+
 .container .row .well p{
   font-size: 17px
   padding: 4px;
   padding-top: 5px;
-
 }
+
 .col-md-8 .well{
   background-image: url("img/Screen Shot 2017-10-13 at 9.12.32 AM.png");
-
 }
+
 footer{
   background-color: red;
   border: 3px solid blue;
@@ -52,15 +56,16 @@ footer{
   padding: 3px;
   margin-bottom: 15px ;
 }
+
 .newme{
   height: 200px;
   width: 150px;
   float: right;
-  padding: 8px;
+  margin: 5px;
   border: yellow solid 3px;
-  
-
+  padding: 8px;
 }
+
 .profile{
   text-align: center;
   margin-top: 5px;
