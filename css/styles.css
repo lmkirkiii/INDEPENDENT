@@ -1,5 +1,6 @@
+
 .self{
-  border: blue solid 3px;
+  border: yellow solid 3px;
   margin-left: 8em;
 
 }
@@ -14,6 +15,7 @@
   color: yellow;
 }
 .background{
+
   background-color: yellow;
 }
 .col-md-10{
@@ -38,4 +40,15 @@ a{
   padding: 4px;
   padding-top: 5px;
 
+}
+.col-md-8 .well{
+  background-image: url("img/Screen Shot 2017-10-13 at 9.12.32 AM.png");
+
+}
+footer{
+  background-color: red;
+  border: 3px solid blue;
+  color: yellow;
+  padding: 3px;
+  margin-bottom: 15px ;
 }
