@@ -1,6 +1,6 @@
 # _PERSONAL PROFILE_
 
-#### _This is a personal profile site to serve as an introduction my programming., {1/24/18}_
+#### _This is a personal profile site to serve as an introduction my programming. {1/24/18}_
 
 #### By _**Lawrence, Kirk**_
 
