@@ -1,8 +1,8 @@
-# _{PERSONAL PROFILE}_
+# _PERSONAL PROFILE_
 
-#### _{This is a personal profile site to serve as an introduction my programming.}, {1/24/18}_
+#### _This is a personal profile site to serve as an introduction my programming., {1/24/18}_
 
-#### By _**{Lawrence, Kirk}**_
+#### By _**Lawrence, Kirk**_
 
 ## Description
 
@@ -17,18 +17,18 @@ _My site is primarily used to facilitate an access point to my professional iden
 
 ## Known Bugs
 
-_{No Known Bugs.}_
+_No Known Bugs._
 
 ## Support and contact details
 
-_{Email provided in contact section on site or send an email to lmkirkiii@gmail.com .}_
+_Email provided in contact section on site or send an email to lmkirkiii@gmail.com_
 
 ## Technologies Used
 
-_{Html, Css, Bootstrap}_
+_Html, Css, Bootstrap_
 
 ### License
 
-*{GPL}*
+*GPL*
 
 Copyright (c) 2015 **_{LARRYCO}_**
