@@ -30,6 +30,6 @@ _Email provided in contact section on site or send an email to lmkirkiii@gmail.c
 
 ### License
 
-*GPL*
+_This site was licensed under the GPL license._
 
-Copyright (c) 2015 **_{LARRYCO}_**
+Copyright (c) 2018, Lawrence M KIRK, **_{LARRYCO}_**
